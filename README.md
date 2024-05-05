@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FjellaTheBirb
 - 👀 I’m interested in coding i guess, playing the piano and the clarinet 
-- 🌱 I’m currently learning python, gdscript, c++
-- 💞️ I’m looking to collaborate on a horror game
+- 🌱 I’m currently learning python, gdscript, c++ and web development
+- 💞️ I’m looking to collaborate on a ...
 - 📫 How to reach me: ***REMOVED***
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
