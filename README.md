@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a ...
 - 📫 How to reach me: ***REMOVED***
 - 😄 Pronouns: she/her
-- ⚡ Kill AI
+- ⚡ I hate AI
 
 <!---
 FjellaTheBirb/FjellaTheBirb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
